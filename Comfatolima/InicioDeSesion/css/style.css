@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins',sans-serif;
+}
+body{
+  display: flex;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background: whitesmoke;
+}
+.login-form{
+  position: relative;
+  width: 370px;
+  height: auto;
+  background: #671919;
+  padding: 40px 35px 60px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: inset 0 0 1px #272727;
+}
+.text{
+  font-size: 30px;
+  color: #e6e6e6;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+form{
+  margin-top: 40px;
+}
+form .field{
+  margin-top: 20px;
+  display: flex;
+}
+.field .fas{
+  height: 50px;
+  width: 60px;
+  color: #8a2828;
+  font-size: 20px;
+  line-height: 50px;
+  border: 1px solid #444;
+  border-right: none;
+  border-radius: 5px 0 0 5px;
+  background: linear-gradient(#b1afaf,#817b7b);
+}
+.field input,form button{
+  height: 50px;
+  width: 100%;
+  outline: none;
+  font-size: 19px;
+  color: #000000;
+  padding: 0 15px;
+  border-radius: 0 5px 5px 0;
+  border: 1px solid #444;
+  caret-color: #339933;
+  background: linear-gradient(#484646,#564f4f);
+}
+input:focus{
+  color: #339933;
+  box-shadow: 0 0 5px rgba(0,255,0,.2),
+              inset 0 0 5px rgba(0,255,0,.1);
+  background: linear-gradient(#333933,#222922);
+  animation: glow .8s ease-out infinite alternate;
+}
+@keyframes glow {
+   0%{
+    border-color: #832c46;
+    box-shadow: 0 0 5px rgba(255, 0, 34, 0.474),
+                inset 0 0 5px rgba(0,0,0,.1);
+  }
+   100%{
+    border-color: rgb(255, 102, 102);
+    box-shadow: 0 0 20px rgba(255, 102, 0, 0.6),
+                inset 0 0 10px rgba(255, 0, 30, 0.4);
+  }
+}
+button{
+  margin-top: 30px;
+  border-radius: 5px!important;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+button:hover{
+  color: #993633;
+  border: 1px solid #9b2531;
+  box-shadow: 0 0 5px rgba(255, 72, 0, 0.3),
+              0 0 10px rgba(255, 0, 0, 0.678),
+              0 0 15px rgba(255, 89, 0, 0.1),
+              0 2px 0 black;
+}
+.link{
+  margin-top: 25px;
+  color: #dfdfdf;
+}
+.link a{
+  color: #338599;
+  text-decoration: none;
+}
+.link a:hover{
+  text-decoration: underline;
+}
