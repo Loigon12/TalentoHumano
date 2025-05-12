@@ -15,6 +15,6 @@ Interfaz cuando se clickea "Adquirir"
 
 ![Captura de pantalla 2025-05-11 213153](https://github.com/user-attachments/assets/c64e601e-8653-4c74-893c-1bc5b1ff1b22)
 
-Seccioón de CONTACTO:
+Sección de CONTACTO:
 
 ![Captura de pantalla 2025-05-11 213104](https://github.com/user-attachments/assets/6f953040-8568-495e-902e-37d1a14bcba0)
