@@ -6,6 +6,7 @@ Interfaz principal:
 ![Captura de pantalla 2025-05-11 205905](https://github.com/user-attachments/assets/fe5d91d6-91cb-4aa3-9a10-6363ff913020)
 
 Sección de INICIO: </br>
+</br>
 En este apartado se encuentran tres tarjetas en donde la de la izquierda, si clickeas encima te lleva a una direccion URL de la pagina del Colegio Comfatolima Ana Julia Suarez de Sorroza, la de la derecha dirige a la pagina de la Caja de Compensación Familiar del Tolima y la del centro a la siguiente sección.
 
 ![Captura de pantalla 2025-05-11 205934](https://github.com/user-attachments/assets/b9155aa0-4646-42c2-af40-23dc772e27aa)
