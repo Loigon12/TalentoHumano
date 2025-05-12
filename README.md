@@ -5,6 +5,7 @@ Interfaz principal:
 
 ![Captura de pantalla 2025-05-11 205905](https://github.com/user-attachments/assets/fe5d91d6-91cb-4aa3-9a10-6363ff913020)
 
+Sección de INICIO
 ![Captura de pantalla 2025-05-11 205934](https://github.com/user-attachments/assets/b9155aa0-4646-42c2-af40-23dc772e27aa)
 
 Sección de PLANES:
