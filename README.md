@@ -7,3 +7,10 @@ Interfaz principal:
 
 ![Captura de pantalla 2025-05-11 205934](https://github.com/user-attachments/assets/b9155aa0-4646-42c2-af40-23dc772e27aa)
 
+Sección de PLANES:
+
+![Captura de pantalla 2025-05-11 213142](https://github.com/user-attachments/assets/2557531d-c174-4eae-b902-fb8c8882dc49)
+
+Interfaz cuando se clickea "Adquirir"
+
+![Captura de pantalla 2025-05-11 213153](https://github.com/user-attachments/assets/c64e601e-8653-4c74-893c-1bc5b1ff1b22)
